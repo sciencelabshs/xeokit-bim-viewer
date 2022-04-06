@@ -9,7 +9,7 @@
 
 ---
 
-**[xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer)** is an open source 2D/3D BIM viewer that runs in the
+**[xeokit-bim-viewer](https://github.com/sciencelabshs/xeokit-bim-viewer)** is an open source 2D/3D BIM viewer that runs in the
 browser and loads models from your file system.
 
 The viewer is built on **[xeokit](http://xeokit.io)**, and is bundled as part of the **[xeokit SDK](http://xeokit.io)**.
@@ -23,7 +23,7 @@ convert and host your models on your own server or GitHub repository.
 
 To view your models with this viewer:
 
-1. Fork the [xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer) repository on GitHub.
+1. Fork the [xeokit-bim-viewer](https://github.com/sciencelabshs/xeokit-bim-viewer) repository on GitHub.
 1. Convert your IFC STEP files
    using [open source CLI tools](https://www.notion.so/xeokit/Viewing-an-IFC-Model-with-xeokit-c373e48bc4094ff5b6e5c5700ff580ee)
    .
@@ -32,14 +32,14 @@ To view your models with this viewer:
 
 Then users can view your models in their browsers, with URLs like this:
 
-[````https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys````](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
+[````https://sciencelabshs.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys````](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
 
 Read the documentation below to get started.
 
 --- 
 
-* [Source Code](https://github.com/xeokit/xeokit-bim-viewer)
-* [API Docs](https://xeokit.github.io/xeokit-bim-viewer/docs)
+* [Source Code](https://github.com/sciencelabshs/xeokit-bim-viewer)
+* [API Docs](https://sciencelabshs.github.io/xeokit-bim-viewer/docs)
 * [xeokit SDK](http://xeokit.io)
 
 ---
